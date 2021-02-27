@@ -1,0 +1,6 @@
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Dos\Ejercicio_Dos\bin\Debug\Ejercicio_Dos.exe.config
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Dos\Ejercicio_Dos\bin\Debug\Ejercicio_Dos.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Dos\Ejercicio_Dos\bin\Debug\Ejercicio_Dos.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Dos\Ejercicio_Dos\obj\Debug\Ejercicio_Dos.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Dos\Ejercicio_Dos\obj\Debug\Ejercicio_Dos.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Dos\Ejercicio_Dos\obj\Debug\Ejercicio_Dos.pdb

@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Uno\Ejercicio_Uno\bin\Debug\Ejercicio_Uno.exe.config
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Uno\Ejercicio_Uno\bin\Debug\Ejercicio_Uno.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Uno\Ejercicio_Uno\bin\Debug\Ejercicio_Uno.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Uno\Ejercicio_Uno\obj\Debug\Ejercicio_Uno.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Uno\Ejercicio_Uno\obj\Debug\Ejercicio_Uno.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Uno\Ejercicio_Uno\obj\Debug\Ejercicio_Uno.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Ejercicio_Uno\Ejercicio_Uno\obj\Debug\Ejercicio_Uno.pdb

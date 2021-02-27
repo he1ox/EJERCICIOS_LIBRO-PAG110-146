@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\EjerciciosLibro\Radianes_grados\Radianes_grados\bin\Debug\Radianes_grados.exe.config
+C:\Users\georg\source\repos\EjerciciosLibro\Radianes_grados\Radianes_grados\bin\Debug\Radianes_grados.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Radianes_grados\Radianes_grados\bin\Debug\Radianes_grados.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\Radianes_grados\Radianes_grados\obj\Debug\Radianes_grados.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\EjerciciosLibro\Radianes_grados\Radianes_grados\obj\Debug\Radianes_grados.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Radianes_grados\Radianes_grados\obj\Debug\Radianes_grados.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\Radianes_grados\Radianes_grados\obj\Debug\Radianes_grados.csprojAssemblyReference.cache

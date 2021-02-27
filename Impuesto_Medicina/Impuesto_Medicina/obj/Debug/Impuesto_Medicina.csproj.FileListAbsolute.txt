@@ -1,0 +1,6 @@
+C:\Users\georg\source\repos\EjerciciosLibro\Impuesto_Medicina\Impuesto_Medicina\bin\Debug\Impuesto_Medicina.exe.config
+C:\Users\georg\source\repos\EjerciciosLibro\Impuesto_Medicina\Impuesto_Medicina\bin\Debug\Impuesto_Medicina.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Impuesto_Medicina\Impuesto_Medicina\bin\Debug\Impuesto_Medicina.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\Impuesto_Medicina\Impuesto_Medicina\obj\Debug\Impuesto_Medicina.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\EjerciciosLibro\Impuesto_Medicina\Impuesto_Medicina\obj\Debug\Impuesto_Medicina.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Impuesto_Medicina\Impuesto_Medicina\obj\Debug\Impuesto_Medicina.pdb

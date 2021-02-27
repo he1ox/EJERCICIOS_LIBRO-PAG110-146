@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\EjerciciosLibro\Tabla_Multiplicar\Tabla_Multiplicar\obj\Debug\Tabla_Multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\EjerciciosLibro\Tabla_Multiplicar\Tabla_Multiplicar\bin\Debug\Tabla_Multiplicar.exe.config
+C:\Users\georg\source\repos\EjerciciosLibro\Tabla_Multiplicar\Tabla_Multiplicar\bin\Debug\Tabla_Multiplicar.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Tabla_Multiplicar\Tabla_Multiplicar\bin\Debug\Tabla_Multiplicar.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\Tabla_Multiplicar\Tabla_Multiplicar\obj\Debug\Tabla_Multiplicar.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Tabla_Multiplicar\Tabla_Multiplicar\obj\Debug\Tabla_Multiplicar.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\Tabla_Multiplicar\Tabla_Multiplicar\obj\Debug\Tabla_Multiplicar.csprojAssemblyReference.cache

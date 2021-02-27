@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\EjerciciosLibro\CalcularMayor_Y_Mnoer\CalcularMayor_Y_Mnoer\bin\Debug\CalcularMayor_Y_Mnoer.exe.config
+C:\Users\georg\source\repos\EjerciciosLibro\CalcularMayor_Y_Mnoer\CalcularMayor_Y_Mnoer\bin\Debug\CalcularMayor_Y_Mnoer.exe
+C:\Users\georg\source\repos\EjerciciosLibro\CalcularMayor_Y_Mnoer\CalcularMayor_Y_Mnoer\bin\Debug\CalcularMayor_Y_Mnoer.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\CalcularMayor_Y_Mnoer\CalcularMayor_Y_Mnoer\obj\Debug\CalcularMayor_Y_Mnoer.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\EjerciciosLibro\CalcularMayor_Y_Mnoer\CalcularMayor_Y_Mnoer\obj\Debug\CalcularMayor_Y_Mnoer.exe
+C:\Users\georg\source\repos\EjerciciosLibro\CalcularMayor_Y_Mnoer\CalcularMayor_Y_Mnoer\obj\Debug\CalcularMayor_Y_Mnoer.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\CalcularMayor_Y_Mnoer\CalcularMayor_Y_Mnoer\obj\Debug\CalcularMayor_Y_Mnoer.csprojAssemblyReference.cache

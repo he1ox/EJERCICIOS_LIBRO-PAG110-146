@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\EjerciciosLibro\Perimetros_Area_Poligono\Perimetros_Area_Poligono\bin\Debug\Perimetros_Area_Poligono.exe.config
+C:\Users\georg\source\repos\EjerciciosLibro\Perimetros_Area_Poligono\Perimetros_Area_Poligono\bin\Debug\Perimetros_Area_Poligono.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Perimetros_Area_Poligono\Perimetros_Area_Poligono\bin\Debug\Perimetros_Area_Poligono.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\Perimetros_Area_Poligono\Perimetros_Area_Poligono\obj\Debug\Perimetros_Area_Poligono.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\EjerciciosLibro\Perimetros_Area_Poligono\Perimetros_Area_Poligono\obj\Debug\Perimetros_Area_Poligono.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\EjerciciosLibro\Perimetros_Area_Poligono\Perimetros_Area_Poligono\obj\Debug\Perimetros_Area_Poligono.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Perimetros_Area_Poligono\Perimetros_Area_Poligono\obj\Debug\Perimetros_Area_Poligono.pdb

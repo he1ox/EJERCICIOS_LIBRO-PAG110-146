@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\EjerciciosLibro\Dia\Dia\bin\Debug\Dia.exe.config
+C:\Users\georg\source\repos\EjerciciosLibro\Dia\Dia\bin\Debug\Dia.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Dia\Dia\bin\Debug\Dia.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\Dia\Dia\obj\Debug\Dia.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\EjerciciosLibro\Dia\Dia\obj\Debug\Dia.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\EjerciciosLibro\Dia\Dia\obj\Debug\Dia.exe
+C:\Users\georg\source\repos\EjerciciosLibro\Dia\Dia\obj\Debug\Dia.pdb

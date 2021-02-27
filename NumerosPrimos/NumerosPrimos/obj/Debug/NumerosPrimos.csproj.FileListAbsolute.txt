@@ -1,0 +1,6 @@
+C:\Users\georg\source\repos\EjerciciosLibro\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\EjerciciosLibro\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe.config
+C:\Users\georg\source\repos\EjerciciosLibro\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.exe
+C:\Users\georg\source\repos\EjerciciosLibro\NumerosPrimos\NumerosPrimos\bin\Debug\NumerosPrimos.pdb
+C:\Users\georg\source\repos\EjerciciosLibro\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.exe
+C:\Users\georg\source\repos\EjerciciosLibro\NumerosPrimos\NumerosPrimos\obj\Debug\NumerosPrimos.pdb

@@ -1,0 +1,7 @@
+C:\Users\georg\source\repos\Factorial-Numero\Factorial-Numero\bin\Debug\Factorial-Numero.exe.config
+C:\Users\georg\source\repos\Factorial-Numero\Factorial-Numero\bin\Debug\Factorial-Numero.exe
+C:\Users\georg\source\repos\Factorial-Numero\Factorial-Numero\bin\Debug\Factorial-Numero.pdb
+C:\Users\georg\source\repos\Factorial-Numero\Factorial-Numero\obj\Debug\Factorial-Numero.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\Factorial-Numero\Factorial-Numero\obj\Debug\Factorial-Numero.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\Factorial-Numero\Factorial-Numero\obj\Debug\Factorial-Numero.exe
+C:\Users\georg\source\repos\Factorial-Numero\Factorial-Numero\obj\Debug\Factorial-Numero.pdb

@@ -1,0 +1,6 @@
+C:\Users\georg\source\repos\SerieNumero\SerieNumero\bin\Debug\SerieNumero.exe.config
+C:\Users\georg\source\repos\SerieNumero\SerieNumero\bin\Debug\SerieNumero.exe
+C:\Users\georg\source\repos\SerieNumero\SerieNumero\bin\Debug\SerieNumero.pdb
+C:\Users\georg\source\repos\SerieNumero\SerieNumero\obj\Debug\SerieNumero.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\SerieNumero\SerieNumero\obj\Debug\SerieNumero.exe
+C:\Users\georg\source\repos\SerieNumero\SerieNumero\obj\Debug\SerieNumero.pdb
